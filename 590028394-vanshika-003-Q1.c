@@ -18,7 +18,6 @@ int main() {
             break;
         }
     }
-    
     if (found != -1) {
         printf("Found at index %d\n", found);
     } else {
